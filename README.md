@@ -1,5 +1,5 @@
 # FunCodingChallenges
-Here i post some fun code chalenges i made.
+Here i post some fun code challenges i made.
 Try them and submit your answers by making a fork! 
 
 ## Challenge 1
